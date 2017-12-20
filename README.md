@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-music
 
 > music app
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# musicApp
+a musical app developed by Vue
+>>>>>>> a9fc1286b2729e4b714ec84644921dcb840c6739
